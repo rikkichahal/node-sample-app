@@ -5,7 +5,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/helm/examples.git
+    repoURL: https://github.com/helm/examples
     targetRevision: main
     path: charts/hello-world
     helm:
