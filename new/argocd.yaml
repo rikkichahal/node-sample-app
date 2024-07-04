@@ -7,7 +7,7 @@ spec:
   source:
     repoURL: https://github.com/helm/examples
     targetRevision: main
-    path: charts/hello-world/template
+    path: charts/hello-world
     helm:
       releaseName: sealed-secrets
   destination:
